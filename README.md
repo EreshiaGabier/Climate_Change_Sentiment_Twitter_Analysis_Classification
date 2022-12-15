@@ -34,7 +34,7 @@ For experimentation, testing and reproducibility of the machine learning models 
 The data for this classification project was downloaded from [Kaggle](https://www.kaggle.com/competitions/edsa-sentiment-classification/data) on the 29th November 2022. The `train.csv` and `test.csv` datasets can be found in the [EDSA_Sentiment_Classification_Data](https://github.com/IkanengJack/Team-CW3/tree/main/EDSA_Sentiment_Classification_Data) folder.
 
 ## 3. Deliverables <a class="anchor" id="resources"></a>
-+  [Submission Python Notebook](https://github.com/IkanengJack/Team-CW3/blob/main/Submission_Notebook_and_Images/Submission_Notebook.ipynb)
++  [Submission Python Notebook](https://github.com/EreshiaGabier/Climate_Change_Sentiment_Twitter_Analysis_Classification/blob/main/Submission_Notebook_and_Images/Final_Submission_Notebook_Team_CW3.ipynb)
 +  [Presentation Slide Deck-link](https://docs.google.com/presentation/d/1n6Sxspydh4Yw8xoSZB33pgfNyMOMgh94xhbmlTrdnOU/edit?usp=sharing)
 +  [Presentation Slide Deck-PDF](https://github.com/IkanengJack/Team-CW3/blob/main/Classification_Presentation_TeamCW3.pdf)
 +  [Comet Experiments](https://github.com/IkanengJack/Team-CW3/blob/main/Comet_experiments_Team_CW3.png)

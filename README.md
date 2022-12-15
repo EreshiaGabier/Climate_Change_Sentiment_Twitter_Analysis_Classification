@@ -10,7 +10,7 @@
 * [General info](#general-info)
 * [Dataset](#dataset)
 * [Deliverables](#resources)
-* [Team-CW3 Contributing Members](#contributingmembers)
+
 
 ## 1. General info <a class="anchor" id="general-info"></a>
 
@@ -40,16 +40,6 @@ The data for this classification project was downloaded from [Kaggle](https://ww
 +  [Comet Experiments](https://github.com/IkanengJack/Team-CW3/blob/main/Comet_experiments_Team_CW3.png)
 +  [Streamlit Repo](https://github.com/IkanengJack/Team-CW3-classification-predict-streamlit/tree/master/Final_Streamlit_app)
 
-
-## 4. Team-CW3 Contributing Members <a class="anchor" id="contributingmembers"></a>
-
-| Name                                                                                        | Github Handle  | Discord Handle               
-|---------------------------------------------------------------------------------------------|----------------|---------------                         
-| [Ikaneng Jack Malapile](https://github.com/IkanengJack/Team-CW3/tree/Ikaneng-Jack-Malapile) |[IkanengJack](https://github.com/IkanengJack)               |Ikaneng Jack Malapile#6331               
-| [Thandolwethu Madondo](https://github.com/IkanengJack/Team-CW3/tree/thando)                 |[ThandolwethuM](https://github.com/ThandolwethuM)              |Thando#2245      
-| [Chukwunonso Azih](https://github.com/IkanengJack/Team-CW3/tree/Nonso-Classification)       |[ChukwunonsoAzih](https://github.com/IkanengJack/Team-CW3/tree/Nonso_Classification2)              |nonso.azih#6002                  
-| Ololade Ogunleye                                                                            |                |Ololade#7681
-| [Ereshia Gabier](https://github.com/IkanengJack/Team-CW3/tree/EDA_Modelling_E) (Team Lead)             |[EreshiaGabier](https://github.com/EreshiaGabier)           |Ereshia#3143
 
 
 

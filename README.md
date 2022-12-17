@@ -38,7 +38,7 @@ The data for this classification project was downloaded from [Kaggle](https://ww
 +  [Presentation Slide Deck-link](https://docs.google.com/presentation/d/1n6Sxspydh4Yw8xoSZB33pgfNyMOMgh94xhbmlTrdnOU/edit?usp=sharing)
 +  [Presentation Slide Deck-PDF](https://github.com/IkanengJack/Team-CW3/blob/main/Classification_Presentation_TeamCW3.pdf)
 +  [Comet Experiments](https://github.com/IkanengJack/Team-CW3/blob/main/Comet_experiments_Team_CW3.png)
-+  [Streamlit Repo](https://github.com/IkanengJack/Team-CW3-classification-predict-streamlit/tree/master/Final_Streamlit_app)
++  [Streamlit Repo](https://github.com/EreshiaGabier/Streamlit_Climate_Change_Twitter_Sentiment_Classification/tree/master/Final_Streamlit_App_Content)
 
 
 
